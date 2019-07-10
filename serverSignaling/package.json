@@ -1,0 +1,19 @@
+{
+    "name": "NodeJsApplication",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "gangulom",
+    "contributors": [],
+    "dependencies": {
+        "websocket": "1.0.29",
+        "fs": "0.0.1-security",
+        "https": "1.0.0",
+        "ws": "7.1.0"
+    }
+}
